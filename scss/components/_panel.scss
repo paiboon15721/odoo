@@ -1,0 +1,17 @@
+.panel {
+  border: 1px solid #000;
+  border-radius: 2rem;
+  margin-bottom: 1rem;
+
+  .panel-item {
+    height: 3rem;
+
+    label {
+      width: 7rem;
+    }
+
+    .long-item {
+      width: 18rem;
+    }
+  }
+}
